@@ -1,0 +1,7 @@
+old-patched/
+original/
+original-serif/
+patched-sans/
+patched-serif/
+shell.nix
+rename_font.py

@@ -6,5 +6,5 @@ https://github.com/protesilaos/aporetic
     - Font names are the format "Aporetic<Sans|Serif><Mono> Nerd Font" like "AporeticSerifMono Nerd Font"
 
 # Screenshots
-![image](https://github.com/Echinoidea/Aporetic-Nerd-Font/blob/master/screenshots/serifnf.png)
 ![image](https://github.com/Echinoidea/Aporetic-Nerd-Font/blob/master/screenshots/sans.png)
+![image](https://github.com/Echinoidea/Aporetic-Nerd-Font/blob/master/screenshots/serif.png)
